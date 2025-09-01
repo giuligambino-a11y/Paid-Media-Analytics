@@ -98,7 +98,6 @@ El dashboard incluye:
 # Recursos
 
 - Dataset: [Google Ads Sales Dataset – Kaggle]([https://www.kaggle.com/datasets/nayakganesh007/google-ads-sales-dataset/data](https://www.kaggle.com/datasets/nayakganesh007/google-ads-sales-dataset))  
-- Power BI Dashboard: *(pendiente de publicación en enlace público)*  
 
 ---
 
