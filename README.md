@@ -1,5 +1,5 @@
 # Paid-Media-Analytics
-Este proyecto forma parte de mi portfolio de Data Analytics y tiene como objetivo demostrar mis habilidades en Python, SQL y Power BI a través del análisis del rendimiento de una campañas digital (Paid Media), con foco en Google Ads.
+En este proyecto analizo el impacto y los resultados de una campaña de Paid Media (Google Ads). El objetivo principal es evaluar la rentabilidad y eficacia de la campaña mediante KPIs clave, y presentar la información en un dashboard claro e interactivo. Finalmente, en base a los resultados obtenidos, se plantean conclusiones y recomendaciones para optimizar la estrategia publicitaria.
 
 ---
 
